@@ -1,0 +1,8 @@
+﻿Uninstalling assembly 'C:\Source\DotNet\ReportToPDF.Job\ReportToPDF.Job\ReportToPDF.Job\bin\Debug\ReportToPDF.Job.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Source\DotNet\ReportToPDF.Job\ReportToPDF.Job\ReportToPDF.Job\bin\Debug\ReportToPDF.Job.exe
+   logfile = C:\Source\DotNet\ReportToPDF.Job\ReportToPDF.Job\ReportToPDF.Job\bin\Debug\ReportToPDF.Job.InstallLog
+Removing EventLog source ReportToPDFJob.
+Service ReportToPDFJob is being removed from the system...
+Service ReportToPDFJob was successfully removed from the system.

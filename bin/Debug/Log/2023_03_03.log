@@ -1,0 +1,33 @@
+08:46:17 | Report To PDF Mode: INTERVAL {0}
+08:46:17 | Report To PDF scheduled to run after: 0 day(s) 0 hour(s) 5 minute(s) 0 seconds(s) {0}
+08:49:57 | Report To PDF Mode: INTERVAL {0}
+08:49:57 | Report To PDF scheduled to run after: 0 day(s) 0 hour(s) 1 minute(s) 0 seconds(s) {0}
+08:51:19 | Callback Log: 03/03/2023 08:51:11 AM
+08:51:51 | ------------------------------------------------------------------------------
+08:51:51 | Process Started
+08:51:51 | 
+08:51:52 | 
+08:51:55 | Process Ended
+08:51:55 | ------------------------------------------------------------------------------
+08:51:59 | Report To PDF Mode: INTERVAL {0}
+08:51:59 | Report To PDF scheduled to run after: 0 day(s) 0 hour(s) 1 minute(s) 0 seconds(s) {0}
+08:53:04 | Callback Log: 03/03/2023 08:53:04 AM
+08:53:12 | ------------------------------------------------------------------------------
+08:53:12 | Process Started
+08:53:12 | 
+08:53:12 | 
+09:00:52 | Report To PDF Mode: INTERVAL {0}
+09:00:52 | Report To PDF scheduled to run after: 0 day(s) 0 hour(s) 1 minute(s) 0 seconds(s) {0}
+09:01:58 | Callback Log: 03/03/2023 09:01:58 AM
+09:02:12 | ------------------------------------------------------------------------------
+09:02:13 | Process Started
+09:02:13 | 
+09:02:28 | Processing file [am0026_2021_06_04_M.rpt] Agency Experience
+09:02:42 | ERROR :: Message: System.ApplicationException: Folder [\\filesrv\Apps\IT\PrintToPdfTesting\am0026\2021\06] already exists with the file [am0026_2021_06_04_M.rpt]. Cannot continue with file. Prior data must be removed before re-processing.
+   at ReportToPDF.Job.MainModule.ProcessCrystalReport(FilenameParts fp, ReportType rt, ReportPeriod rp, String filePath) in C:\Source\DotNet\ReportToPDF.Job\ReportToPDF.Job\ReportToPDF.Job\MainModule.vb:line 146
+   at ReportToPDF.Job.MainModule.Main() in C:\Source\DotNet\ReportToPDF.Job\ReportToPDF.Job\ReportToPDF.Job\MainModule.vb:line 78 Report: am0026_2021_06_04_M.rpt
+09:02:42 | 
+09:02:42 | Process Ended
+09:02:42 | ------------------------------------------------------------------------------
+09:02:42 | Report To PDF Mode: INTERVAL {0}
+09:02:42 | Report To PDF scheduled to run after: 0 day(s) 0 hour(s) 1 minute(s) 0 seconds(s) {0}

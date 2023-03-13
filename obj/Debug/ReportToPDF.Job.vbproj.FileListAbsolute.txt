@@ -1,0 +1,15 @@
+C:\Source\DotNet\ReportToPDF.Job\ReportToPDF.Job\ReportToPDF.Job\bin\Debug\ReportToPDF.Job.exe.config
+C:\Source\DotNet\ReportToPDF.Job\ReportToPDF.Job\ReportToPDF.Job\bin\Debug\ReportToPDF.Job.exe
+C:\Source\DotNet\ReportToPDF.Job\ReportToPDF.Job\ReportToPDF.Job\bin\Debug\ReportToPDF.Job.pdb
+C:\Source\DotNet\ReportToPDF.Job\ReportToPDF.Job\ReportToPDF.Job\bin\Debug\ReportToPDF.Job.xml
+C:\Source\DotNet\ReportToPDF.Job\ReportToPDF.Job\ReportToPDF.Job\bin\Debug\CrystalDecisions.Web.dll
+C:\Source\DotNet\ReportToPDF.Job\ReportToPDF.Job\ReportToPDF.Job\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Source\DotNet\ReportToPDF.Job\ReportToPDF.Job\ReportToPDF.Job\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Source\DotNet\ReportToPDF.Job\ReportToPDF.Job\ReportToPDF.Job\obj\Debug\ReportToPDF.Job.Resources.resources
+C:\Source\DotNet\ReportToPDF.Job\ReportToPDF.Job\ReportToPDF.Job\obj\Debug\ReportToPDF.Job.ProjectInstaller.resources
+C:\Source\DotNet\ReportToPDF.Job\ReportToPDF.Job\ReportToPDF.Job\obj\Debug\ReportToPDF.Job.vbproj.GenerateResource.cache
+C:\Source\DotNet\ReportToPDF.Job\ReportToPDF.Job\ReportToPDF.Job\obj\Debug\ReportToPDF.Job.vbproj.CoreCompileInputs.cache
+C:\Source\DotNet\ReportToPDF.Job\ReportToPDF.Job\ReportToPDF.Job\obj\Debug\ReportToPDF.Job.vbproj.CopyComplete
+C:\Source\DotNet\ReportToPDF.Job\ReportToPDF.Job\ReportToPDF.Job\obj\Debug\ReportToPDF.Job.exe
+C:\Source\DotNet\ReportToPDF.Job\ReportToPDF.Job\ReportToPDF.Job\obj\Debug\ReportToPDF.Job.xml
+C:\Source\DotNet\ReportToPDF.Job\ReportToPDF.Job\ReportToPDF.Job\obj\Debug\ReportToPDF.Job.pdb
